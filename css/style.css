@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FB5B21;
+    --primary: #FFF952;
     --secondary: #BDBDBF;
     --light: #F4F5F8;
     --dark: #222429;
@@ -39,7 +39,7 @@ h6,
 }
 
 .btn-primary {
-    color: #FFFFFF;
+    color: ##222429;
 }
 
 .btn-square {
